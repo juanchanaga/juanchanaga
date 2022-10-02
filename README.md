@@ -1,9 +1,9 @@
 ### Hi there 👋
 
+[![@jpchr22's Holopin board](https://holopin.io/api/user/board?user=jpchr22)](https://holopin.io/@jpchr22)
+
 <!--
 **juanchanaga/juanchanaga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-[![@jpchr22's Holopin board](https://holopin.io/api/user/board?user=jpchr22)](https://holopin.io/@jpchr22)
 
 Here are some ideas to get you started:
 
